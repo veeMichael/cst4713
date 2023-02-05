@@ -1,0 +1,15 @@
+#tictactoe caption {
+    font-size: 500%
+  }
+
+   #tictactoe td, td.winner {
+    width: 2in;
+    height: 2in;
+    font-size: 450%;
+    text-align: center;
+    border: solid 1px black;
+  }
+
+  td.winner {
+    background-color: silver;
+  }
