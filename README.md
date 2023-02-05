@@ -5,3 +5,9 @@ This repository showcases my coursework completed during the CST 4713 class wher
 Here is the WAR file to run the application if interested:
 https://drive.google.com/file/d/1QYCNDJe8WSluen58abw7gW_NNFitPCK5/view?usp=share_link
 
+To run the WAR file, follow these steps:
+
+Download the file.
+Open the Command Prompt (CMD) in the folder where the file is located.
+Type java -jar Vanunu-webproject.war in the CMD and press enter to run the file.
+To view the output, go to localhost:8080 in your web browser.
